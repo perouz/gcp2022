@@ -191,6 +191,8 @@ textarea.input {
   display: inline-block;
 }
 
+
+
 .navbar-brand .logo>img {
   max-height: 50px;
 }
@@ -827,6 +829,9 @@ textarea.input {
 .contact {
   text-align: center;
   margin-bottom: 30px;
+}
+.contact .contact-img>img{
+	border-radius: 50%;
 }
 
 .contact h3 {
