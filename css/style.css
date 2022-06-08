@@ -50,6 +50,20 @@ body {
   color: #444;
 }
 
+
+.participant{
+  font-size: 22px;
+  color: #0b0f28;
+  font-weight: 700;
+  white-space:nowrap;
+}
+
+.pinfo{
+  font-size: 20px;
+  color: #585858;
+  font-weight: 600;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0px 0px 15px;
   color: #0b0f28;
